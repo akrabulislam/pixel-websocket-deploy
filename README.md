@@ -1,2 +1,1 @@
-# pixel-websocket-deploy
-pixel websocket for deploy
+# pixel_websocket
